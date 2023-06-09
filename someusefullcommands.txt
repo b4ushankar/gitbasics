@@ -1,0 +1,4 @@
+git init (intial command to start)
+git add . (to add files in git)
+git add <filename> (to add specific files to git)
+git commit -m "files commited"
